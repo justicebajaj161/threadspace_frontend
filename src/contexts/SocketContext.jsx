@@ -34,8 +34,8 @@ export const SocketProvider = ({ children }) => {
     }
     
     // Fallback to localhost
-    return 'http://localhost:5000';
-    // return 'https://threadspace_backend.onrender.com';
+    // return 'http://localhost:5000';
+    return 'https://threadspace_backend.onrender.com';
   };
 
   useEffect(() => {
