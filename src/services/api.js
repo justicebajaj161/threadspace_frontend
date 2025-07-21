@@ -1,6 +1,6 @@
 // Base URL for your backend API
 // const API_BASE_URL = 'http://localhost:5000/api';
-const API_BASE_URL = 'https://threadspace_backend.onrender.com/api';
+const API_BASE_URL = 'https://threadspace-backend.onrender.com/api';
 
 // API service class
 class ApiService {
